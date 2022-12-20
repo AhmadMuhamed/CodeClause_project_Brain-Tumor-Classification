@@ -21,7 +21,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>git clone this repository </li><li>Download all above mentioned dependencies.</li><li>Open downloaded folder inside jupyter notebook.</li><li>Now cells as per your requirements.</li></ol>
+<ol><li>git clone https://github.com/AhmadMuhamed/Brain-Tumor-Classification </li><li>Download all above mentioned dependencies.</li><li>Open downloaded folder inside jupyter notebook.</li><li>Now cells as per your requirements.</li></ol>
 <!-- /wp:list -->
 
 
